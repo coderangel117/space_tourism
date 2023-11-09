@@ -1,4 +1,13 @@
 {
+  "commons": {
+    "navigation": [
+      "Home",
+      "destination",
+      "crew",
+      "technology"
+    ]
+
+  },
   "destinations": [
     {
       "name": "Moon",
